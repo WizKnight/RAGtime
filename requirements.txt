@@ -16,3 +16,4 @@ tabulate
 tiktoken
 google.generativeai
 google-cloud-aiplatform
+rank_bm25
