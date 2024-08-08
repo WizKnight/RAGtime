@@ -49,7 +49,7 @@ This project demonstrates a Retrieval Augmented Generation (RAG) system that com
 * **Dataset:** You can easily replace the SQuAD dataset with your own data by modifying the data loading and preprocessing steps.
 * **Embedding Model:** Experiment with different Hugging Face embedding models by changing the `model_name` in the code.
 * **LLM:** Explore various Hugging Face LLMs for question answering by adjusting the `repo_id`.
-**Retrieval Parameters:** Fine-tune the retrieval process by adjusting the `top_k` parameter or experimenting with different hybrid search weighting strategies.
+* **Retrieval Parameters:** Fine-tune the retrieval process by adjusting the `top_k` parameter or experimenting with different hybrid search weighting strategies.
 
 ## License
 This project is licensed under the Apache 2.0 License.
